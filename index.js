@@ -45,11 +45,11 @@ retornaNome(pessoa2)*/
 
 //exercicio 2 escrita 
 
-//a. 
+/*a. 
 
 const pessoa1 = {
     nome: "Luiz",
-    idade: "39",
+    idade: 39,
     profissao:"programador" ,
 }
 
@@ -57,11 +57,50 @@ const pessoa2 = {
     nome: "Diego",
     idade: 37,
     profissao: "analista",
+}*/
+
+/*b. 
+
+function funcao1(pessoa) {
+const resultado = []
+resultado.push(pessoa.nome, pessoa.nome.length, pessoa.idade, pessoa.profissao)
+return resultado
 }
 
-//b. 
+console.log(funcao1(pessoa1))
+console.log(funcao1(pessoa2))*/
 
-function funcao1(parametro) {
-const array = []
-array.push(parametro.nome)
+
+//exercicio 3 escrita de codigo
+
+/*a. 
+const carrinho = []
+
+b.
+const frutas1 = {
+    nome: "banana",
+    disponibilidade: true ,
 }
+
+const frutas2 = {
+    nome: "maçã",
+    disponibilidade: true ,
+}
+
+const frutas3 = {
+    nome: "laranja",
+    disponibilidade: true ,
+}
+ 
+c.
+function funcao1(fruta) {
+    carrinho.push(fruta)
+    console.log(carrinho)
+}
+
+funcao1(frutas1)
+funcao1(frutas2)
+funcao1(frutas3)
+
+d.
+console.log(carrinho)*/
