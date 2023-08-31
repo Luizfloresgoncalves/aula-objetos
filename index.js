@@ -76,7 +76,7 @@ console.log(funcao1(pessoa2))*/
 /*a. 
 const carrinho = []
 
-b.
+//b.
 const frutas1 = {
     nome: "banana",
     disponibilidade: true ,
@@ -92,15 +92,14 @@ const frutas3 = {
     disponibilidade: true ,
 }
  
-c.
+//c.
 function funcao1(fruta) {
     carrinho.push(fruta)
-    console.log(carrinho)
 }
 
 funcao1(frutas1)
 funcao1(frutas2)
 funcao1(frutas3)
 
-d.
+//d.
 console.log(carrinho)*/
